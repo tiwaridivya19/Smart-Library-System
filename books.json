@@ -1,0 +1,602 @@
+[
+  {
+    "id": 101,
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "year": 1997,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 102,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "year": 1937,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 103,
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "category": "Biography",
+    "year": 1999,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 104,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "year": 1988,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 105,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-help",
+    "year": 2018,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 106,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "category": "Finance",
+    "year": 1997,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 107,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "category": "Finance",
+    "year": 2020,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 108,
+    "title": "Ikigai",
+    "author": "Hector Garcia",
+    "category": "Self-help",
+    "year": 2016,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 109,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "category": "Romance",
+    "year": 2012,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 110,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "year": 1813,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 111,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "category": "Historical Fiction",
+    "year": 2005,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 112,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Classic",
+    "year": 1960,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 113,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian",
+    "year": 1949,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 114,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "Political Fiction",
+    "year": 1945,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 115,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "year": 1954,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 116,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "year": 1988,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 117,
+    "title": "The Theory of Everything",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "year": 2002,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 118,
+    "title": "The Immortals of Meluha",
+    "author": "Amish Tripathi",
+    "category": "Mythology",
+    "year": 2010,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 119,
+    "title": "The Secret of the Nagas",
+    "author": "Amish Tripathi",
+    "category": "Mythology",
+    "year": 2011,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 120,
+    "title": "The Blue Umbrella",
+    "author": "Ruskin Bond",
+    "category": "Fiction",
+    "year": 1980,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 121,
+    "title": "Train to Pakistan",
+    "author": "Khushwant Singh",
+    "category": "Historical Fiction",
+    "year": 1956,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 122,
+    "title": "Malgudi Days",
+    "author": "R.K. Narayan",
+    "category": "Short Stories",
+    "year": 1943,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 123,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Productivity",
+    "year": 2016,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 124,
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "category": "Self-help",
+    "year": 2018,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 125,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "year": 2011,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 126,
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith",
+    "category": "Mystery",
+    "year": 2013,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 127,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Thriller",
+    "year": 2012,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 128,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Mystery",
+    "year": 2003,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 129,
+    "title": "Angels and Demons",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "year": 2000,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 130,
+    "title": "Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "year": 1892,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 131,
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "category": "Adventure",
+    "year": 1876,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 132,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "category": "Adventure",
+    "year": 1883,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 133,
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "category": "Adventure",
+    "year": 1873,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 134,
+    "title": "Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "category": "Science Fiction",
+    "year": 1864,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 135,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction",
+    "year": 1965,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 136,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "category": "Science Fiction",
+    "year": 2011,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 137,
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "year": 2018,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 138,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "year": 1976,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 139,
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science",
+    "year": 1980,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 140,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": "Biography",
+    "year": 2011,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 141,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": "Biography",
+    "year": 1947,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 142,
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "category": "Biography",
+    "year": 1994,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 143,
+    "title": "The Story of My Experiments with Truth",
+    "author": "Mahatma Gandhi",
+    "category": "Autobiography",
+    "year": 1927,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 144,
+    "title": "The Discovery of India",
+    "author": "Jawaharlal Nehru",
+    "category": "History",
+    "year": 1946,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 145,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "category": "Self-help",
+    "year": 1937,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 146,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "category": "Self-help",
+    "year": 1997,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 147,
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "category": "Self-help",
+    "year": 1936,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 148,
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "category": "Finance",
+    "year": 1949,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 149,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business",
+    "year": 2011,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 150,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "category": "Business",
+    "year": 2014,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 151,
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "category": "Romance",
+    "year": 2018,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 152,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "category": "Romance",
+    "year": 2012,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 153,
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "category": "Romance",
+    "year": 1996,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 154,
+    "title": "Five Point Someone",
+    "author": "Chetan Bhagat",
+    "category": "Fiction",
+    "year": 2004,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 155,
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "category": "Fiction",
+    "year": 2008,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 156,
+    "title": "The Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "category": "Mythology",
+    "year": 2008,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 157,
+    "title": "The Shiva Trilogy",
+    "author": "Amish Tripathi",
+    "category": "Mythology",
+    "year": 2010,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 158,
+    "title": "The Guide",
+    "author": "R.K. Narayan",
+    "category": "Fiction",
+    "year": 1958,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 159,
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "category": "Classic",
+    "year": 1847,
+    "available": true,
+    "quantity": 1,
+    "available_copies": 1
+  },
+  {
+    "id": 201,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "category": "Fantasy",
+    "year": 1997,
+    "quantity": 5,
+    "available_copies": 4,
+    "available": true
+  }
+]
